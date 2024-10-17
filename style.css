@@ -1,0 +1,18 @@
+header {
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
+p {
+    background-color: aqua;
+    color: #d01515;
+    display: flex;
+    justify-content: center;
+}
+footer {
+    color: rgb(32, 21, 21);
+    background-color: #e70c0c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
